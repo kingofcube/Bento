@@ -92,8 +92,6 @@ body {
 
 .card {
   background-color: var(--cards);
-  box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
-  border-radius: 5px;
 }
 
 .timeBlock {
@@ -294,7 +292,6 @@ body {
   color: var(--fg);
   margin-top: 1vh;
   padding: 8px 12px;
-  border-radius: 5px;
   font-weight: bold;
   text-align: center;
   width: 80%;
