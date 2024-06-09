@@ -50,32 +50,9 @@ body {
   justify-content: center;
 }
 
-.notransition {
-  -webkit-transition: none;
-  -moz-transition: none;
-  -o-transition: none;
-  transition: none;
-}
-
 .withImageBackground {
   background-image: var(--imgcol), var(--imgbg);
   background-size: cover;
-}
-
-#themeButton {
-  position: absolute;
-  margin: 2em 2em 0 0;
-  right: 0;
-  top: 0;
-  color: var(--fg);
-  border: none;
-  cursor: pointer;
-  background-color: #00000000;
-}
-
-#themeIcon {
-  width: 25px;
-  height: 25px;
 }
 
 .container {
