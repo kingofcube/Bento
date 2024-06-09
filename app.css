@@ -113,11 +113,6 @@ body {
   border-radius: 5px;
 }
 
-.card:hover {
-  transform: translateY(-0.2rem);
-  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
-}
-
 .timeBlock {
   grid-row: 1 / span 2;
   grid-column: 1 / span 2;
