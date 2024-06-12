@@ -125,6 +125,10 @@ body {
   margin-left: 1.5rem;
 }
 
+.buttonsContainer {
+  margin: auto;
+}
+
 #greetings {
   font-size: var(--fg-secondary);
   color: var(--fg);
