@@ -75,6 +75,12 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
+		{
+			id: '5',
+			name: 'Test',
+			icon: 'circle-help',
+			link: 'https://example.com/',
+		},
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
